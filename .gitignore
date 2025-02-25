@@ -33,7 +33,7 @@ MANIFEST
 local_settings.py
 db.sqlite3
 config.py
-
+jwtdrf/migrations/
 # Visual Studio Code specific
 .vscode/
 
